@@ -48,4 +48,20 @@
 ---
 
 # 🏆 Certifications:
-- **AWS Foundations**: Getting Started with the AWS Cloud Essentials  
+- **AWS Foundations**: Getting Started with the AWS Cloud Essentials
+
+---
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladaMinina&show_icons=true&theme=radical" alt="VladaMinina GitHub Stats" />
+</p>
+
+# 🚀 Top Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladaMinina&layout=compact&theme=radical" alt="VladaMinina Top Languages" />
+</p>
